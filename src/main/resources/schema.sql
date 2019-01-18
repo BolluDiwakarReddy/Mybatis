@@ -1,0 +1,1 @@
+create table users (id int(20) AUTO_INCREMENT, name varchar2(25) NOT NULL,email varchar2(50),primary key(id));
